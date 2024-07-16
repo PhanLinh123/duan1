@@ -1,0 +1,4 @@
+phần logo thì chỉ cần dùng thẻ img (ko cần thẻ div) <neu co them ca the p thi dung khoi div cung duoc>
+Phần thanh điều hướng thì dùng thẻ nav (ko dung div), tác động vào ul để các phần tử nằm ngang ra va ko dung gi vao the a
+phần login, out thì dùng thẻ div bên trong có thẻ btn
+với trạng thái display: inline thì phần tử đó sẽ ko xét được width heigh(như dùng ::after là inline), muốn dùng thì sửa display: ilineblock

@@ -1,0 +1,1 @@
+dung the main de code phan hero (phan dap vao mat khi click vao trang, ko dung div)
